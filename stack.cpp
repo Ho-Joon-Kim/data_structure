@@ -20,7 +20,7 @@ int isFull() {
 
 int show(){
 	for(int i = 0; i < size; i++){
-		printf("%d ",stack[i]);	
+		printf("현재 배열 : %d ",stack[i]);	
 	}
 	
 	
